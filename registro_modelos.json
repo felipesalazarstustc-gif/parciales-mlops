@@ -1,0 +1,6 @@
+{
+  "modelos": [
+    {"id": "modelo-001", "rmse": 12.0, "estado": "produccion"},
+    {"id": "modelo-002", "rmse": 9.5, "estado": "candidato"}
+  ]
+}
